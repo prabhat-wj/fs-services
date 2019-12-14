@@ -28,8 +28,10 @@
 					  <ul class="navbar-nav ml-auto">
 
 						<li class="nav-item"> <a class="nav-link" href="index.php">Home</a> </li>
+                       <li class="nav-item"> <a class="nav-link" href="about-us.php">About Us</a> </li>
+						<li class="nav-item"> <a class="nav-link" href="service.php">Services</a> </li>
 
-						<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="service.html" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+						<!-- <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="service.php" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a> -->
 						 <!--  <ul class="dropdown-menu">
 							<li class="dropdown"> <a class="dropdown-toggle dropdown-item" href="service.html">Services</a>
 							  <ul class="dropdown-menu">
@@ -41,14 +43,15 @@
 							<li><a class="dropdown-item" href="service-details.html">Service Details</a></li>
 							<li><a class="dropdown-item" href="service-values.html">Service Values</a></li>
 						  </ul> -->
+						<!-- </li> -->
+						
+						
+						
 						</li>
-						<li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="about-us.html" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
-						
-						</li>
 						
 						
 						
-						<li class="nav-item"> <a class="nav-link" href="contact.php">Contact</a> </li>
+						<li class="nav-item"> <a class="nav-link" href="contact.php">Contact Us</a> </li>
 					  </ul>
 					   
 					</div>

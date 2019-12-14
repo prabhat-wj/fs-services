@@ -65,9 +65,9 @@
 				<div class="banner-content">
 					<h1 class="page-titile">Contact us</h1>
 					<ul class="banner-nav float-right">
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li><a href="#"><span class="fas fa-angle-right"></span></a></li>
-						<li class="active"><a href="contact.html">Contact us</a></li>
+						<li class="active"><a href="#">Contact us</a></li>
 					</ul>
 				</div>
 			</div>
@@ -129,7 +129,7 @@
 <div class="full-row">
 	<div class="container-fluid">
 		<div class="row">
-			<div id="map"></div>
+			<div ><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14671.73770099127!2d77.41743797516588!3d23.172593308034795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c437847bcbfbd%3A0x5bddcace8d251404!2sDanish%20Kunj%2C%20Kolar%20Rd%2C%20Bhopal%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1576224393641!5m2!1sen!2sin" width="1300" height="450" frameborder="0" style="border:0;" allowfullscreen="" ></iframe></div>
 		</div>
 	</div>
 </div> 
